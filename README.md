@@ -4,6 +4,13 @@ The ==Casperle== is single-autor optimized default theme for Ghost blogging plat
 
 To download, visit the [releases](https://github.com/aholbreich/Casperle/releases) page.
 
+##Features
+
+- [*] Syntax highliting included. Styles improved for that.
+- [*] Link to author is removed from article list.
+- [*] Author reference reduced to the image in the Article
+
+
 Feel free to fork, report issues or feature requests.
 
 ## Copyright & License
