@@ -6,9 +6,11 @@ To download, visit the [releases](https://github.com/aholbreich/Casperle/release
 
 ##Features
 
-- [*] Syntax highliting included. Styles improved for that.
-- [*] Link to author is removed from article list.
-- [*] Author reference reduced to the image in the Article
+- [x] Syntax highliting included. Styles improved for that.
+- [x] Link to author is removed from article list.
+- [x] Author reference reduced to the image in the Article
+- [ ] Discuss integration
+- [ ] Google analytics integration
 
 
 Feel free to fork, report issues or feature requests.
